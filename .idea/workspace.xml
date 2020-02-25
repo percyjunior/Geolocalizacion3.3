@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60ec1b6d-a465-4e44-b96d-b682e9a7ff8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W28uelJvWOCsYkA8FIlZCx9Kdj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\9no Semestre\Trabajo de Grado\Aplicacion\Geolocalizacion\client\app\layout\Ususario" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60ec1b6d-a465-4e44-b96d-b682e9a7ff8e" name="Default Changelist" comment="" />
+      <created>1578336554009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578336554009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1578903810892">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1578903810892" />
+    <state x="1920" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581563817543">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state x="1920" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1581563817543" />
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579420994503">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1579019342651" />
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579420994503" />
+    <state x="437" y="125" key="FileChooserDialogImpl" timestamp="1581404864799">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="437" y="125" key="FileChooserDialogImpl/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1581404864799" />
+    <state x="2211" y="109" key="FileChooserDialogImpl/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1579025779514" />
+    <state width="1492" height="164" key="GridCell.Tab.0.bottom" timestamp="1579362976103">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="164" key="GridCell.Tab.0.bottom/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362976103" />
+    <state width="1492" height="164" key="GridCell.Tab.0.center" timestamp="1579362976103">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="164" key="GridCell.Tab.0.center/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362976103" />
+    <state width="1492" height="164" key="GridCell.Tab.0.left" timestamp="1579362976103">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="164" key="GridCell.Tab.0.left/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362976103" />
+    <state width="1492" height="164" key="GridCell.Tab.0.right" timestamp="1579362976103">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="164" key="GridCell.Tab.0.right/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362976103" />
+    <state x="277" y="44" key="SettingsEditor" timestamp="1579363140801">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="277" y="44" key="SettingsEditor/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579363140801" />
+    <state x="277" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1578871926324" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581993454138">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1581981514424" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.826@0.0.1536.826" timestamp="1581993454138" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582463176621">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1582463176621" />
+    <state x="2233" y="206" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1581980748133" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362659079" />
+    <state x="2508" y="295" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1920.1032@1920.0.1920.1032" timestamp="1579381749779" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1582339314505" />
+    <state x="462" y="11" width="611" height="804" key="find.popup" timestamp="1582570784021">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="462" y="11" width="611" height="804" key="find.popup/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1582570784021" />
+    <state x="2228" y="10" width="606" height="701" key="find.popup/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1582265843863" />
+    <state x="373" y="22" width="616" height="804" key="find.popup/0.0.1536.826@0.0.1536.826" timestamp="1581993927244" />
+    <state x="425" y="182" key="run.anything.popup" timestamp="1579018930730">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="425" y="182" key="run.anything.popup/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1579018930730" />
+    <state x="2207" y="128" width="672" height="591" key="search.everywhere.popup" timestamp="1582264207273">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state x="2207" y="128" width="672" height="591" key="search.everywhere.popup/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1582264207273" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579363932857" />
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579442542840">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579442542840" />
+  </component>
+</project>
