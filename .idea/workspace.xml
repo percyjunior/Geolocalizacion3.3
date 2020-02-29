@@ -9,7 +9,15 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60ec1b6d-a465-4e44-b96d-b682e9a7ff8e" name="Default Changelist" comment="" />
+    <list default="true" id="60ec1b6d-a465-4e44-b96d-b682e9a7ff8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/.finished-upgraders" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/packages" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/release" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/release" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/versions" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/highcharts-container/.npm/package/npm-shrinkwrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/highcharts-container/.npm/package/npm-shrinkwrap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/npm-shrinkwrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/npm-container/.npm/package/npm-shrinkwrap.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,10 +82,11 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1578903810892">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="2047" y="26" key="#Project_Structure" timestamp="1583002739853">
+      <screen x="1920" y="0" width="1024" height="720" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1578903810892" />
+    <state x="2047" y="26" key="#Project_Structure/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1583002739853" />
     <state x="1920" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581563817543">
       <screen x="1920" y="0" width="1024" height="720" />
     </state>
@@ -118,11 +127,11 @@
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1581981514424" />
     <state width="498" height="446" key="SwitcherDM/0.0.1536.826@0.0.1536.826" timestamp="1581993454138" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582463176621">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="2233" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1583002993251">
+      <screen x="1920" y="0" width="1024" height="720" />
     </state>
     <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1024.720@0.0.1536.826" timestamp="1582463176621" />
-    <state x="2233" y="206" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1581980748133" />
+    <state x="2233" y="206" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1024.720@1920.0.1024.720" timestamp="1583002993251" />
     <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1920.1032@0.0.1536.826" timestamp="1579362659079" />
     <state x="2508" y="295" key="com.intellij.ide.util.TipDialog/0.0.1536.826/1920.0.1920.1032@1920.0.1920.1032" timestamp="1579381749779" />
     <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1582339314505" />

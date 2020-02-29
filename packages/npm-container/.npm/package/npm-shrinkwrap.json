@@ -1,16 +1,25 @@
 {
+  "lockfileVersion": 1,
   "dependencies": {
     "firebase": {
       "version": "2.2.9",
+      "resolved": "https://registry.npmjs.org/firebase/-/firebase-2.2.9.tgz",
+      "integrity": "sha1-0JYJ08f8+mebJXTIBsjpFPmaDu8=",
       "dependencies": {
         "faye-websocket": {
           "version": "0.9.3",
+          "resolved": "https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz",
+          "integrity": "sha1-SCpQWw3wrmJrlphm0710DNuWLoM=",
           "dependencies": {
             "websocket-driver": {
               "version": "0.5.2",
+              "resolved": "https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz",
+              "integrity": "sha1-jHyF2gcTtAYFVrTXHAF3XuEmnrk=",
               "dependencies": {
                 "websocket-extensions": {
-                  "version": "0.1.1"
+                  "version": "0.1.1",
+                  "resolved": "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz",
+                  "integrity": "sha1-domUmcGEtu91Q3fC27DNbLVdKec="
                 }
               }
             }
